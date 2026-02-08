@@ -1,0 +1,1 @@
+SELECT str_to_date("  JULY 10 2022 " ,"%M   %d %Y ") AS DATE ;

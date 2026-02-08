@@ -1,0 +1,2 @@
+USE FAMILY;
+select NAME, SUBSTR(name, 2,3) as RESULT_MID  FROM MEMBERS;

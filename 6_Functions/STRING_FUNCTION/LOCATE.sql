@@ -1,0 +1,2 @@
+SELECT * , LOCATE( "H" , name) as RESULT_  FROM MEMBER_1;
+SELECT * , LOCATE( "H" , name , 4) as RESULT_  FROM MEMBER_1;

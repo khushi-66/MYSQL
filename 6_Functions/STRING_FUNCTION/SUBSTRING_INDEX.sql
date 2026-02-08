@@ -1,0 +1,4 @@
+USE FAMILY ;
+select * from members;
+select NAME, SUBSTRING_index(name, "A",1) as RESULT_SUBSTRING  FROM MEMBERS;
+SELECT SUBSTRING_INDEX("WWW.YAHOOBABA.IN",".",2);

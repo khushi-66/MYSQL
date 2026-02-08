@@ -1,0 +1,2 @@
+USE FAMILY;
+SELECT  TRIM("         KHUSHI") as RESULT_  ;

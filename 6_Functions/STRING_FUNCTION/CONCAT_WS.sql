@@ -1,0 +1,2 @@
+USE FAMILY;
+SELECT * , CONCAT_WS(  " * " ,name,"SAHU") as RESULT_  FROM MEMBER_1;

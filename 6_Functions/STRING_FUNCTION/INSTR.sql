@@ -1,0 +1,1 @@
+SELECT * , INSTR(  name ,"U") as RESULT_  FROM MEMBER_1;

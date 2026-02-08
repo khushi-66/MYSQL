@@ -1,0 +1,1 @@
+SELECT TO_DAYS("12-5-18");

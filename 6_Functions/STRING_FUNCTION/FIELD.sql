@@ -1,0 +1,4 @@
+USE FAMILTY;
+
+SELECT    FIELD( "U",'K','H','U','S','H','I') AS RESULT  ;
+SELECT   FIELD( "RIYA","SAHU","MADHU","RIYA") AS RESULT  ;

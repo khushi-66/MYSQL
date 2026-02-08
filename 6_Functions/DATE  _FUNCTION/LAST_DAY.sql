@@ -1,0 +1,2 @@
+USE PAYMENTS;
+SELECT LAST_DAY("2016-3-3") as date;
