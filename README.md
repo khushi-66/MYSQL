@@ -26,6 +26,7 @@ This repository includes practice examples of:
 * Group By & Having
 * Subqueries
 * Primary Key & Foreign Key
+* DQL,DML,DDL,TCL and TCL Commands
 * CTE (Common Table Expression)
 
 ---
